@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003514625386",
+    "project_id": "armap-9d983",
+    "storage_bucket": "armap-9d983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003514625386:android:d23828c2efecc465a13913",
+        "android_client_info": {
+          "package_name": "com.UnityBootCamp.Map_Test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVHam1kSRImZP_Lo0pVOnYRS9EDIoS0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
